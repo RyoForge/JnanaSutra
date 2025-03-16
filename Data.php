@@ -1,8 +1,8 @@
 <?php 
 $DatabaseType = 'mysqli'; 
-$DatabaseServer = 'mysql'; 
-$DatabaseUsername = 'root'; 
-$DatabasePassword = 'rootpassword'; 
-$DatabaseName = 'ryoforge'; 
-$DatabasePort = '3306'; 
+$DatabaseServer = 'localhost'; 
+$DatabaseUsername = 'adminryo'; 
+$DatabasePassword = 'mainSup&8876'; 
+$DatabaseName = 'ryoforgesis'; 
+$DatabasePort = '3306';
 ?>
